@@ -41,6 +41,7 @@ AOS: Version 2.3.4
 
 Codeausschnitt importiert von https://www.npmjs.com/package/aos
 
+
 ## Installationsanleitung
 
 1. Node.js (mind. Version 16.0) und npm (mind. Version 8.0) werden benötigt
