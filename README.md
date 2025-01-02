@@ -43,8 +43,12 @@ Codeausschnitt importiert von https://www.npmjs.com/package/aos
 
 ## Installationsanleitung
 
-HTML-File öffnen. Das richtige CSS ist bereits integriert
+1. Node.js (mind. Version 16.0) und npm (mind. Version 8.0) werden benötigt
+2. Projektordner herunterladen und entpacken
+3. Zum Projektverzeichnis navigieren
+4. Abhängigkeiten installieren (npm install & npm start)
+5. Website wird lokal geöffnet (im Standardbrowser localhost:3000)
 
 **Alternativ**
 
-Abrufbar unter: https://informatik.th-brandenburg.de/~kodalle/
+Abrufbar unter: https://informatik.th-brandenburg.de/~hermann/homepage/build/
