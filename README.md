@@ -6,30 +6,40 @@ Autor: Waldemar Hermann
 
 Datum: 02.01.2024
 
-Projektbeschreibung: Prüfungsleistung für das Modul Web-Programmierung Wintersemester 2024/25
+Projektbeschreibung: Prüfungsleistung für das Modul Web-Programmierung Wintersemester 2024/25. Persönliche Website, die mit React und Bootstrap erstellt wurde. Sie besteht aus den Komponenten: Navbar, Main, About, Projects, Contact, Footer. 
 
 
 ## Quellennachweis
 
 ### Schriften
 
-Source Sans Pro - eingebunden von https://fonts.google.com/specimen/Source+Sans+Pro?query=source+s
+Open Sans - eingebunden von https://fonts.google.com/specimen/Open+Sans
 
 ### Bilder
 
-Blatt-Textur - heruntergeladen von https://www.pexels.com/de-de/foto/sommer-textur-garten-blatt-8453729/ (keine Namensnennung nötig)
+Profilbild: profile.png - selbst erstellt
 
-Quallen-Hintergrund - heruntergeladen von https://as1.ftcdn.net/v2/jpg/04/93/72/46/1000_F_493724636_kuI0k9beOFJROdzI8HQuBosyTxQPuBLm.jpg (Lizenz gekauft)
+Projektbilder: snake.png, todoapp.png, CAD-App.png - selbst erstellt
 
-### Texte
+Favicon: favicon-gross.webp - erstellt mit ChatGPT
 
-Texte stammen von http://ccszengarden.com
+### Dokumente
 
-### Code
+Musterlebenslauf: Musterlebenslauf.pdf - heruntergeladen von https://planet-beruf.de/fileadmin/assets/01_Neu/05_PDF_Neu/Wie_bewerbe_ich_mich/Arbeitsblaetter/Musterlebenslauf.pdf
 
-HTML-Code stammt von http://ccszengarden.com
+Musterzeugnis: Musterzeugnis.pdf - heruntergeladen von https://www.uni-marburg.de/de/universitaet/administration/verwaltung/dezernat2/formulare/arbeitszeugnis-bitte-ueber-den-internet-explorer-oeffnen-damit-muster-abrufbar-sind/muster-arbeitszeugnis.docx
 
-Button stammt von https://codepen.io/alticreation/
+### Bootstrap
+
+Bootstrap: Version 5.3.3
+
+Bootstrap-Icons: Version 1.11.3
+
+### AOS (Animate On Scroll)
+
+AOS: Version 2.3.4
+
+Codeausschnitt importiert von https://www.npmjs.com/package/aos
 
 ## Installationsanleitung
 
